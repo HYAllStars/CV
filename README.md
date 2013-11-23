@@ -1,6 +1,6 @@
 ## Employment documents of Hyeyoung Shin
 
-Please visit the front page at [williamdemeo.github.io/CV][].
+Please visit the front page at [][].
 
 ## Main files in this repository
 
@@ -27,10 +27,10 @@ Please visit the front page at [williamdemeo.github.io/CV][].
 
 ----------------------------------------------------------------------------
 ## Research Interests
-**Computer Science, Python, JavaScript 
+Computer Science, Python, JavaScript 
 ----------------------------------------------------------------------------
 ## Education
-**Kyeongpook National University**, Daegu, South Korea
+**Kyeongpook National University**, Daegu, South Korea.
 *B.A in English Language and literature*, 2009.  
 
 **University of Hawaii**, Honolulu, USA.    
