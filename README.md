@@ -22,12 +22,12 @@ Please visit the front page at [williamdemeo.github.io/CV][].
 |                             |                   |
 |-----------------------------|------------------:|
 |Jibeom-ro 22 23 APT 106/1306 | Mobile: 010-9381-7474 |
-|Suseong-gu, Daegu 706-092    | url: [williamdemeo.org][]|
+|Suseong-gu, Daegu 706-092    | url: [hyeyoungshin.net][]|
 |South Korea                  | email: [hyeyoungsinw@gmail.com][]|
 
 ----------------------------------------------------------------------------
 ## Research Interests
- Computer Science, Python, JavaScript 
+**Computer Science, Python, JavaScript 
 ----------------------------------------------------------------------------
 ## Education
 **Kyeongpook National University**, Daegu, South Korea
@@ -51,60 +51,11 @@ Please visit the front page at [williamdemeo.github.io/CV][].
 
 ----------------------------------------------------------------------------
 ## Programming Experience
-+ **Java and Python.** 5 years object oriented software development for algebra research  
++ **JavaScript and Python on codecademy.com.**
 
 ------------------------------------------------
 ## References
-+ **Gyuwan Ahn**  
-  Professor of Mathematics      
-  University of Hawaii         
-  2565 McCarthy Mall    
-  Honolulu, HI 96822    
-  phone: 808-956-4680  
-  email: [ralph@math.hawaii.edu](mailto:ralph@math.hawaii.edu) 
-
-+ **William Lampe**  
-  Professor of Mathematics  
-  University of Hawaii  
-  2565 McCarthy Mall  
-  Honolulu, HI 96822  
-  phone: 808-956-4680  
-  email: [bill@math.hawaii.edu](mailto:bill@math.hawaii.edu)  
-  (teaching reference)
-
-+ **J. B. Nation**  
-  Professor of Mathematics                              
-  University of Hawaii                    
-  2565 McCarthy Mall       
-  Honolulu, HI 96822   
-  phone: 808-956-4680    
-  email: [jb@math.hawaii.edu](mailto:jb@math.hawaii.edu)   
-
-+ **Peter Jipsen**  
-  Associate Professor of Mathematics  
-  Chapman University  
-  545 W. Palm Ave  
-  Orange, CA 92866  
-  phone: 714-744-7918  
-  email: [jipsen@chapman.edu](mailto:jipsen@chapman.edu)  
-
-+ **George McNulty**           
-  Professor of Mathematics     
-  University of South Carolina     
-  1523 Greene Street              
-  Columbia, SC 29208              
-  phone: 803-777-7469             
-  email: [mcnulty@math.sc.edu](mailto:mcnulty@math.sc.edu)  
-
-+ **Eva Czabarka**  
-  Associate Professor of Mathematics  
-  University of South Carolina  
-  1523 Greene Street  
-  Columbia, SC 29208  
-  phone: 803-777-7524  
-  email: [czabarka@math.sc.edu](mailto:czabarka@math.sc.edu)  
-  (teaching reference)
-
++ ****  
 
 [DeMeo-CV.pdf]: https://github.com/williamdemeo/CV/raw/master/cv/DeMeo-CV.pdf
 [DeMeo-Resume.pdf]: https://github.com/williamdemeo/CV/raw/master/cv/DeMeo-Resume.pdf
