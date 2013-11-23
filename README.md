@@ -4,13 +4,11 @@ Please visit the front page at [http://hyeyoungshin.github.io/CV][].
 
 ## Main files in this repository
 
-1.  [DeMeo-CV.pdf][] -- Curriculum vitae.
+1.  [Shin-CV.pdf][] -- Curriculum vitae.
 
-1.  [DeMeo-Resume.pdf][] -- resume (abridged CV).
+2.  [Shin-Resume.pdf][] -- resume (abridged CV).
 
-2.  [DeMeo-Research.pdf][] -- research statement.
-
-3.  [DeMeo-Teaching.pdf][] -- teaching statement.
+3.  [Shin-WorkDescription.pdf][] -- Job Description.
 
 -------------------------------------------------------------------------------------------
 
@@ -41,8 +39,15 @@ Computer Science, Python, JavaScript
 **Gyeongsan Girls' High School**, Department of English.  
 *English Teacher*, 2009-2013.  Supervisor: Gyuwan Ahn.  
 
-**Daegu District Court**, Department of Criminal Agreement.  
-*Translator*, (Freelancer) 2009-2011.  
+----------------------------------------------------------------------------
+## Translation Work
+**Daegu Embeded Conference**, Daegu Digital Industry Promotion Agency.
+**DaeIneㅅMternational Musical Festival**,
+**Daegu International Bodypainting Festival**,
+**Daegu Pockets**,
+**InDaegu**,
+**Super Couple Diary**,
+**Daegu District Court**, 
 
 ----------------------------------------------------------------------------
 ## Special Courses
