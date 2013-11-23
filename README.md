@@ -1,6 +1,6 @@
 ## Employment documents of Hyeyoung Shin
 
-Please visit the front page at [][].
+Please visit the front page at [http://hyeyoungshin.github.io/CV][].
 
 ## Main files in this repository
 
