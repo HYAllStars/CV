@@ -1,14 +1,14 @@
 ## Employment documents of Hyeyoung Shin
 
-Please visit the front page at [http://hyeyoungshin.github.io/CV].
+Please visit the front page at [HYAllStars.github.io/CV](http://HYAllStars.github.io/CV).
 
 ## Main files in this repository
 
-1.  [Shin-CV.pdf][] -- Curriculum vitae.
+1.  [Shin-CV.pdf](https://github.com/HYAllStars/CV/raw/master/Shin-CV.pdf) -- Curriculum vitae (coming soon)
 
-2.  [Shin-Resume.pdf][] -- resume (abridged CV).
+2.  [Shin-Resume.pdf](https://github.com/HYAllStars/CV/raw/master/Shin-Resume.pdf) -- Resume (abridged CV) (coming soon)
 
-3.  [Shin-WorkDescription.pdf][] -- Job Description.
+3.  [Shin-WorkDescription.pdf](https://github.com/HYAllStars/CV/raw/master/Shin-WorkDescription.pdf) -- Job Description (coming soon)
 
 -------------------------------------------------------------------------------------------
 
@@ -20,12 +20,12 @@ Please visit the front page at [http://hyeyoungshin.github.io/CV].
 |                             |                   |
 |-----------------------------|------------------:|
 |Jibeom-ro 22 23 APT 106/1306 | Mobile: 010-9381-7474 |
-|Suseong-gu, Daegu 706-092    | url: [hyeyoungshin.net][]|
-|South Korea                  | email: [hyeyoungsinw@gmail.com][]|
+|Suseong-gu, Daegu 706-092    | url: [hyeyoungshin.net](http://hyeyoungshin.net)|
+|South Korea                  | email: [hyeyoungsinw@gmail.com](mailto:hyeyoungshinw@gmail.com)|
 
 ----------------------------------------------------------------------------
-## Research Interests
-Computer Science, Python, JavaScript 
+## Interests
+Computer Science, Python, JavaScript, English language and literature, Korean history
 ----------------------------------------------------------------------------
 ## Education
 **Kyeongpook National University**, Daegu, South Korea.
@@ -50,32 +50,12 @@ Computer Science, Python, JavaScript
 **Daegu District Court**, 
 
 ----------------------------------------------------------------------------
-## Special Courses
+## Programming Experience and Course Work
 + *Computer Science 101*, Standford University on Coursera, 2013.
 + *Learn to Program: The Fundamentals*, University of Toronto on Coursera, 2013.
-
-----------------------------------------------------------------------------
-## Programming Experience
-+ **JavaScript and Python on codecademy.com.**
++ *JavaScript and Python on [codecademy.com](http://www.codecademy.com/cssace54289).*
 
 ------------------------------------------------
 ## References
 + ****  
 
-[DeMeo-CV.pdf]: https://github.com/williamdemeo/CV/raw/master/cv/DeMeo-CV.pdf
-[DeMeo-Resume.pdf]: https://github.com/williamdemeo/CV/raw/master/cv/DeMeo-Resume.pdf
-[DeMeo-Research.pdf]: https://github.com/williamdemeo/CV/raw/master/other/research/DeMeo-Research.pdf
-[DeMeo-Teaching.pdf]: https://github.com/williamdemeo/CV/raw/master/other/teaching/DeMeo-Teaching.pdf
-[Workshop on Computational Universal Algebra]: http://universalalgebra.wordpress.com/meetings/2013-workshop-on-computational-universal-algebra/
-[abstract]: http://www.ams.org/amsmtgs/2160_abstracts/1096-c5-2578.pdf
-[project url]: http://soundmath.github.io/GroupSound/
-[CS184: Startup Engineering]: https://class.coursera.org/startup-001/class
-[Functional Programming Principles in Scala]: https://class.coursera.org/progfun-003/class
-[GAP routines]: https://github.com/williamdemeo/Overalgebras
-[Java package]: https://github.com/williamdemeo/Czerny
-[Jython programs]: https://github.com/williamdemeo/Aljebra
-[Utility programs]: http://uacalc.github.io/UACalc/
-[williamdemeo.org]: http://williamdemeo.org
-[williamdemeo at gmail]: mailto:williamdemeo@gmail.com
-[universalalgebra.org]: http://universalalgebra.org
-[williamdemeo.github.io/CV]: http://williamdemeo.github.io/CV
