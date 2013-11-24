@@ -4,17 +4,13 @@ Please visit the front page at [HYAllStars.github.io/CV](http://HYAllStars.githu
 
 ## Main files in this repository
 
-1.  [Shin-CV.pdf](https://github.com/HYAllStars/CV/raw/master/Shin-CV.pdf) -- Curriculum vitae (coming soon)
+1.  [Shin-CV.pdf](https://github.com/HYAllStars/CV/raw/master/Shin-CV.pdf) -- curriculum vitae (coming soon)
 
-2.  [Shin-Resume.pdf](https://github.com/HYAllStars/CV/raw/master/Shin-Resume.pdf) -- Resume (abridged CV) (coming soon)
+2.  [Shin-Resume.pdf](https://github.com/HYAllStars/CV/raw/master/Shin-Resume.pdf) -- abridged CV (coming soon)
 
-3.  [Shin-WorkDescription.pdf](https://github.com/HYAllStars/CV/raw/master/Shin-WorkDescription.pdf) -- Job Description (coming soon)
+3.  [Shin-WorkDescription.pdf](https://github.com/HYAllStars/CV/raw/master/Shin-WorkDescription.pdf) -- job description (coming soon)
 
 -------------------------------------------------------------------------------------------
-
-**Curriculum Vitae**
-====================
-
 
 ## Contact Information 
 |                             |                   |
@@ -26,26 +22,30 @@ Please visit the front page at [HYAllStars.github.io/CV](http://HYAllStars.githu
 ----------------------------------------------------------------------------
 ## Interests
 
-Computer Science, Python, JavaScript, English language and literature, Korean history
+Computer Science, Python, JavaScript, English Language and Literature, Korean History
 
 ----------------------------------------------------------------------------
 
 ## Education
 
 **Kyeongpook National University**, Daegu, South Korea.
-*B.A in English Language and literature*, 2009.  
+*B.A. in English Language and Literature*, 2009.  
 
 **University of Hawaii**, Honolulu, USA.    
-*Exchange Student Program* 2007-2008.    
+*Exchange Student Program*, 2007-2008.    
 
 ----------------------------------------------------------------------------
 ## Work Experience
 **Gyeongsan Girls' High School**, Department of English.  
 *English Teacher*, 2009-2013.  Supervisor: Gyuwan Ahn.  
+*Editor-in-chief*, School Newspaper, 2012-2013.
+
+**Daegu Pockets**  
+*Associate Editor and English Translator*
 
 ----------------------------------------------------------------------------
 ## Translation Work
-**Daegu Embeded Conference**, Daegu Digital Industry Promotion Agency.  
+**Daegu Embedded Conference**, Daegu Digital Industry Promotion Agency.  
 **DaeIneㅅMternational Musical Festival**   
 **Daegu International Bodypainting Festival**    
 **Daegu Pockets**    
@@ -54,8 +54,8 @@ Computer Science, Python, JavaScript, English language and literature, Korean hi
 **Daegu District Court** 
 
 ----------------------------------------------------------------------------
-## Programming Experience and Course Work
-+ *Computer Science 101*, Standford University on Coursera, 2013.
+## Programming Experience
++ *Computer Science 101*, Stanford University on Coursera, 2013.
 + *Learn to Program: The Fundamentals*, University of Toronto on Coursera, 2013.
 + JavaScript and Python training at [codecademy.com](http://www.codecademy.com/cssace54289).
 
