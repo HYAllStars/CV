@@ -12,8 +12,8 @@ Please visit the front page at [HYAllStars.github.io/CV](http://HYAllStars.githu
 
 -------------------------------------------------------------------------------------------
 
-**Curriculum Vitae: Hyeyoung Shin**
-===================================
+**Curriculum Vitae**
+====================
 
 
 ## Contact Information 
@@ -25,9 +25,13 @@ Please visit the front page at [HYAllStars.github.io/CV](http://HYAllStars.githu
 
 ----------------------------------------------------------------------------
 ## Interests
+
 Computer Science, Python, JavaScript, English language and literature, Korean history
+
 ----------------------------------------------------------------------------
+
 ## Education
+
 **Kyeongpook National University**, Daegu, South Korea.
 *B.A in English Language and literature*, 2009.  
 
@@ -41,21 +45,18 @@ Computer Science, Python, JavaScript, English language and literature, Korean hi
 
 ----------------------------------------------------------------------------
 ## Translation Work
-**Daegu Embeded Conference**, Daegu Digital Industry Promotion Agency.
-**DaeIneㅅMternational Musical Festival**,
-**Daegu International Bodypainting Festival**,
-**Daegu Pockets**,
-**InDaegu**,
-**Super Couple Diary**,
-**Daegu District Court**, 
+**Daegu Embeded Conference**, Daegu Digital Industry Promotion Agency.  
+**DaeIneㅅMternational Musical Festival**   
+**Daegu International Bodypainting Festival**    
+**Daegu Pockets**    
+**InDaegu**    
+**Super Couple Diary**   
+**Daegu District Court** 
 
 ----------------------------------------------------------------------------
 ## Programming Experience and Course Work
 + *Computer Science 101*, Standford University on Coursera, 2013.
 + *Learn to Program: The Fundamentals*, University of Toronto on Coursera, 2013.
-+ *JavaScript and Python on [codecademy.com](http://www.codecademy.com/cssace54289).*
++ JavaScript and Python training at [codecademy.com](http://www.codecademy.com/cssace54289).
 
-------------------------------------------------
-## References
-+ ****  
 
