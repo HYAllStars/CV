@@ -28,7 +28,7 @@ Computer Science, Python, JavaScript, English Language and Literature, Korean Hi
 
 ## Education
 
-**Kyeongpook National University**, Daegu, South Korea.
+**Kyeongpook National University**, Daegu, South Korea.  
 *B.A. in English Language and Literature*, 2009.  
 
 **University of Hawaii**, Honolulu, USA.    
@@ -38,9 +38,9 @@ Computer Science, Python, JavaScript, English Language and Literature, Korean Hi
 ## Work Experience
 **Gyeongsan Girls' High School**, Department of English.  
 *English Teacher*, 2009-2013.  Supervisor: Gyuwan Ahn.  
-*Editor-in-chief*, School Newspaper, 2012-2013.
+*Editor-in-Chief*, School Newspaper, 2012-2013.
 
-**Daegu Pockets**  
+**Daegu Pockets Magazine**  
 *Associate Editor and English Translator*
 
 ----------------------------------------------------------------------------
