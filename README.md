@@ -8,7 +8,7 @@ Please visit the front page at [HYAllStars.github.io/CV](http://HYAllStars.githu
 |                             |                   |
 |-----------------------------|------------------:|
 |1102 Carroll Avenue          | Mobile: 212-535-8565 |
-|Ames, IA 50010               | url: [hyeyoungshin.net](http://hyeyoungshin.net)|
+|Ames, IA 50010               | url: [shinhyeyoung.com](http://www.shinhyeyoung.com)|
 |United States                | email: [hyeyoungsinw@gmail.com](mailto:hyeyoungshinw@gmail.com)|
 
 ----------------------------------------------------------------------------
@@ -26,7 +26,7 @@ Computer Science, Cycling, Philosophy, Animals
 *Exchange Student Program*, 2007-2008.    
 
 **Iowa State University**, Ames, IA.
-*nondgree in Computer Science*, Present.
+*Nondgree in Computer Science*, Present.
 
 ----------------------------------------------------------------------------
 ## Work Experience
